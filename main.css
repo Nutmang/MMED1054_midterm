@@ -1,0 +1,40 @@
+* {
+	font-family: Arial;
+	font-size: 20px;
+	background-image: url("images/background.jpg");
+	color: white;
+}
+#big {
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: Georgia;
+	background-color: black;
+}
+h2 {
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 30px;
+}
+header {
+	background-color: black;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-size: 45px;
+
+}
+#divide {
+	font-size: 45px;
+	background-color: black;
+}
+h3 {
+	font-family: cursive;
+	font-size: 40px;
+}
+footer {
+	font-size: 10px;
+}
